@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:flutter_first/new_page.dart';
+import 'package:flutter_first/dreamlog_page.dart';
 
 class AddItem extends StatefulWidget {
   const AddItem({super.key, required this.title, required this.email});

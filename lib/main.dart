@@ -1,10 +1,10 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'new_page.dart';
+import 'dreamlog_page.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
-import 'login_page.dart';
+import 'signup_page.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

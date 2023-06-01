@@ -143,18 +143,9 @@ class _MySecondPageState extends State<MySecondPage> {
                                         context,
                                         MaterialPageRoute(builder: (context) => MySecondPage(title: "Dream Log", email: widget.email)),
                                       );
-                                      // docRef.update({
-                                      //   "Dreams": FieldValue.arrayRemove([{
-                                      //     'date': dreamList[index]["date"].toString(),
-                                      //     'description': dreamList[index]["description"].toString(),
-                                      //     'title': dreamList[index]["title"].toString()
-                                      //   }])
-                                      // });
-                                      // dreamList.removeAt(index);
                                     },
                                     child: Text('Delete')
                                   ),
-                                  PopupMenuItem(child: Text('Edit')),
                                 ],
                               )
                             ),

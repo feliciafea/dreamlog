@@ -1,6 +1,6 @@
-# flutter_first
+# dreamlog
 
-A new Flutter project.
+A Flutter app alowing users to log their dreams and store the log on their respective accounts.
 
 ## Getting Started
 

@@ -1,16 +1,3 @@
 # dreamlog
 
-A Flutter app alowing users to log their dreams and store the log on their respective accounts.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The Dream Log is Android mobile application that allows users to record their dreams and store them in personally created accounts. The UI for this application is built using FLutter and Dart while the backing database uses Firestore, the cloud-based database part of Google's Firebase platform. 

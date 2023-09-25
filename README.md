@@ -1,6 +1,6 @@
 # Dream Log
 
-The Dream Log is Android mobile application that allows users to record their dreams and store them in personally created accounts. The UI for this application is built using Flutter and Dart while the backing database uses Firestore, the cloud-based database part of Google's Firestore. 
+The Dream Log is Android mobile application that allows users to record their dreams and store them in personally created accounts. The UI for this application is built using Flutter and Dart while the back end uses noSQL document database Firestore. Firestore and user-auth are supported by Firebase, Google's backend cloud computing services and application development platforms.
 
 # Creating an Account
 https://github.com/feliciafea/dreamlog/assets/107654364/8f63aa2a-357a-44c7-a120-a15a831d5e30
